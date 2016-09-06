@@ -1,0 +1,44 @@
+body	{
+		background-color:#0B6E7D; 
+}
+
+h1{
+	font-family: 'Open Sans', sans-serif;
+}
+
+p {
+	
+	font-family: 'Open Sans', sans-serif;
+}
+
+#about-me-wrap {
+	background-color: #3C8022;
+	padding: 50px;
+	width: 60%;
+	margin: 100px auto;
+}
+
+#profile-wrap{
+	float: left;
+	width: 40%;
+	margin-right: 10%;
+}
+
+#bio-wrap {
+	float: right;
+	width: 50%;
+}
+
+.clear {
+	clear: both;
+}
+
+ul.profile-social-links {
+	padding:	0;
+}
+
+ul.profile-social-links{
+	list.style.type:none;
+	display:inline;
+	margin-right:15px;
+}

@@ -1,0 +1,216 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ser",
+				"sans-serif"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/student/Desktop/LUL/Josh Sabio.html",
+		"/C/Users/student/Desktop/christian-nash/css/main.css",
+		"/C/Users/student/Desktop/salvador-mercade/css/main.css",
+		"/C/Users/student/Desktop/salvador-mercade/Salllll.io.html",
+		"/C/Users/student/Desktop/christian-nash/index.html",
+		"/C/Users/student/Desktop/LUL/Josh Sabio Extension.html",
+		"/C/Users/student/Desktop/LUL/css/main.css",
+		"/C/Users/student/Downloads/code-challenge-1-SalvadorM27-master (1)/code-challenge-1-SalvadorM27-master/index.html",
+		"/C/Users/student/Downloads/code-challenge-1-cnash138-master/code-challenge-1-cnash138-master/index.html",
+		"/C/Users/student/Desktop/salvador-mercade/css/main.css.css",
+		"/C/Users/student/Desktop/salvador-mercade/main css",
+		"/C/Users/student/Desktop/christian-nash/css/main.css.CSS",
+		"/C/Users/student/Desktop/christia'nash/index.html",
+		"/C/Users/student/Desktop/christia'nash/css/main.CSS",
+		"/C/Users/student/Desktop/LUL/css",
+		"/C/Users/student/Desktop/LUL/Salllll.html",
+		"/C/Users/student/Desktop/LUL/Josh Sabio.sublime-workspace",
+		"/C/Users/student/Desktop/LUL/Salllll.io.html",
+		"/C/Users/student/Desktop/salvador-mercade/index.html",
+		"/C/Users/student/Desktop/salvador-mercade/imgres",
+		"/C/Users/student/Desktop/christia'nash/CSS/main.CSS",
+		"/C/Users/student/Desktop/Salvador MercadoSS.html",
+		"/C/Users/student/Documents/harmbe.png",
+		"/C/Program Files/Google/Chrome/Application/chrome.exe",
+		"/C/Users/student/Desktop/christia'nash/Salllll.io.html",
+		"/C/Users/student/Downloads/index.html",
+		"/C/Users/student/Downloads/index.html JoshSab.txt",
+		"/C/Users/student/Desktop/christia'nash/Salllll.html",
+		"/C/Users/student/Pictures/harmbe.png",
+		"/C/Users/student/Desktop/Salllll.html",
+		"/C/Users/student/Downloads/stylesheet.css",
+		"/C/Users/student/Desktop/stylesheet.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\student\\Desktop\\christia'nash\\Salllll.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
